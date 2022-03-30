@@ -151,7 +151,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="AlgorithmExercise.cpp" />
+    <ClCompile Include="LC_215.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="SolutionBaseClass.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
