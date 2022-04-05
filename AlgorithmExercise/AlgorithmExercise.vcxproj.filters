@@ -27,5 +27,8 @@
     <ClCompile Include="SolutionBaseClass.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="LC_918.cpp">
+      <Filter>源文件\Solutions</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

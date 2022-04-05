@@ -152,6 +152,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="LC_215.cpp" />
+    <ClCompile Include="LC_918.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="SolutionBaseClass.cpp" />
   </ItemGroup>
