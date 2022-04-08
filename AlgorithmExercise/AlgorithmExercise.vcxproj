@@ -151,6 +151,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="LC_1060.cpp" />
+    <ClCompile Include="LC_1182.cpp" />
+    <ClCompile Include="LC_1231.cpp" />
+    <ClCompile Include="LC_1901.cpp" />
     <ClCompile Include="LC_215.cpp" />
     <ClCompile Include="LC_239.cpp" />
     <ClCompile Include="LC_918.cpp" />

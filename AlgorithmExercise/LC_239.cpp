@@ -1,6 +1,7 @@
 #include "SolutionBaseClass.cpp"
 
-class Solution {
+class LC_239 : public Solution
+{
 public:
 	vector<int> maxSlidingWindow(vector<int>& nums, int k) {
 		std::deque<int> dq;

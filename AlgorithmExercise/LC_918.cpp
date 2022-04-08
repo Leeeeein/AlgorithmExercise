@@ -1,6 +1,6 @@
 #include "SolutionBaseClass.cpp"
 
-class Solution : public Solution
+class LC_918 : public Solution
 {
 public:
 	int maxSubarraySumCircular(vector<int>& nums) {
