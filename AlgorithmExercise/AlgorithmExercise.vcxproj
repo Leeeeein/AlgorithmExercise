@@ -158,6 +158,7 @@
     <ClCompile Include="LC_1901.cpp" />
     <ClCompile Include="LC_215.cpp" />
     <ClCompile Include="LC_239.cpp" />
+    <ClCompile Include="LC_287寻找重复数.cpp" />
     <ClCompile Include="LC_918.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="SolutionBaseClass.cpp" />
