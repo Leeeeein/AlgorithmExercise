@@ -155,10 +155,12 @@
     <ClCompile Include="LC_1182.cpp" />
     <ClCompile Include="LC_1229.cpp" />
     <ClCompile Include="LC_1231.cpp" />
+    <ClCompile Include="LC_1868_两个行程编码数组的积.cpp" />
     <ClCompile Include="LC_1901.cpp" />
     <ClCompile Include="LC_215.cpp" />
     <ClCompile Include="LC_239.cpp" />
-    <ClCompile Include="LC_287寻找重复数.cpp" />
+    <ClCompile Include="LC_287_寻找重复数.cpp" />
+    <ClCompile Include="LC_42_接雨水.cpp" />
     <ClCompile Include="LC_918.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="SolutionBaseClass.cpp" />
