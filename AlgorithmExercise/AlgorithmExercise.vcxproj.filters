@@ -57,5 +57,8 @@
     <ClCompile Include="LC_287_寻找重复数.cpp">
       <Filter>源文件\Solutions</Filter>
     </ClCompile>
+    <ClCompile Include="LC_159_至多包含两个不同字符的最长子串.cpp">
+      <Filter>源文件\Solutions</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
