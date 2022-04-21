@@ -60,5 +60,14 @@
     <ClCompile Include="LC_159_至多包含两个不同字符的最长子串.cpp">
       <Filter>源文件\Solutions</Filter>
     </ClCompile>
+    <ClCompile Include="LC_340_至多包含 K 个不同字符的最长子串.cpp">
+      <Filter>源文件\Solutions</Filter>
+    </ClCompile>
+    <ClCompile Include="LC_1004_最大连续1的个数 III.cpp">
+      <Filter>源文件\Solutions</Filter>
+    </ClCompile>
+    <ClCompile Include="LC_239_滑动窗口最大值.cpp">
+      <Filter>源文件\Solutions</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
