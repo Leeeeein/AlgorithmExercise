@@ -162,6 +162,7 @@
     <ClCompile Include="LC_215.cpp" />
     <ClCompile Include="LC_239.cpp" />
     <ClCompile Include="LC_239_滑动窗口最大值.cpp" />
+    <ClCompile Include="LC_286_墙与门.cpp" />
     <ClCompile Include="LC_287_寻找重复数.cpp" />
     <ClCompile Include="LC_340_至多包含 K 个不同字符的最长子串.cpp" />
     <ClCompile Include="LC_42_接雨水.cpp" />

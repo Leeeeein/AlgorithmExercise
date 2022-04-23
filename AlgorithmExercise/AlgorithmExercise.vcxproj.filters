@@ -69,5 +69,8 @@
     <ClCompile Include="LC_239_滑动窗口最大值.cpp">
       <Filter>源文件\Solutions</Filter>
     </ClCompile>
+    <ClCompile Include="LC_286_墙与门.cpp">
+      <Filter>源文件\Solutions</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
