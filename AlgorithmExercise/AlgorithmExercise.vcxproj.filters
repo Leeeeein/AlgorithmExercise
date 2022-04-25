@@ -72,5 +72,8 @@
     <ClCompile Include="LC_286_墙与门.cpp">
       <Filter>源文件\Solutions</Filter>
     </ClCompile>
+    <ClCompile Include="LC_76_最小覆盖字串.cpp">
+      <Filter>源文件\Solutions</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

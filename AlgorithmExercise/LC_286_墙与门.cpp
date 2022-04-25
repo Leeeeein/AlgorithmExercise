@@ -1,6 +1,5 @@
 #include "SolutionBaseClass.cpp"
 
-
 class LC_286 : public Solution {
 public:
 	void wallsAndGates(vector<vector<int>>& rooms) {
