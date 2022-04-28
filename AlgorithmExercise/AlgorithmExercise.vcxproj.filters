@@ -75,5 +75,8 @@
     <ClCompile Include="LC_76_最小覆盖字串.cpp">
       <Filter>源文件\Solutions</Filter>
     </ClCompile>
+    <ClCompile Include="LC_417_太平洋大西洋水流问题.cpp">
+      <Filter>源文件\Solutions</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

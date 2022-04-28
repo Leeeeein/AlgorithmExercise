@@ -165,6 +165,7 @@
     <ClCompile Include="LC_286_墙与门.cpp" />
     <ClCompile Include="LC_287_寻找重复数.cpp" />
     <ClCompile Include="LC_340_至多包含 K 个不同字符的最长子串.cpp" />
+    <ClCompile Include="LC_417_太平洋大西洋水流问题.cpp" />
     <ClCompile Include="LC_42_接雨水.cpp" />
     <ClCompile Include="LC_76_最小覆盖字串.cpp" />
     <ClCompile Include="LC_918.cpp" />
