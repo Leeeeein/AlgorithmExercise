@@ -156,6 +156,7 @@
     <ClCompile Include="LC_1182.cpp" />
     <ClCompile Include="LC_1229.cpp" />
     <ClCompile Include="LC_1231.cpp" />
+    <ClCompile Include="LC_1469_寻找所有的独生节点.cpp" />
     <ClCompile Include="LC_159_至多包含两个不同字符的最长子串.cpp" />
     <ClCompile Include="LC_1868_两个行程编码数组的积.cpp" />
     <ClCompile Include="LC_1901.cpp" />
