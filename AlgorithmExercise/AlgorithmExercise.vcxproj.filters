@@ -81,5 +81,8 @@
     <ClCompile Include="LC_1469_寻找所有的独生节点.cpp">
       <Filter>源文件\Solutions</Filter>
     </ClCompile>
+    <ClCompile Include="LC_582_杀掉进程.cpp">
+      <Filter>源文件\Solutions</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
