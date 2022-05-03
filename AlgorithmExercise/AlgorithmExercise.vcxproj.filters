@@ -84,5 +84,8 @@
     <ClCompile Include="LC_582_杀掉进程.cpp">
       <Filter>源文件\Solutions</Filter>
     </ClCompile>
+    <ClCompile Include="LC_863_ 二叉树中所有距离为 K 的结点.cpp">
+      <Filter>源文件\Solutions</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

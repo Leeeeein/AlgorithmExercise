@@ -170,6 +170,7 @@
     <ClCompile Include="LC_42_接雨水.cpp" />
     <ClCompile Include="LC_582_杀掉进程.cpp" />
     <ClCompile Include="LC_76_最小覆盖字串.cpp" />
+    <ClCompile Include="LC_863_ 二叉树中所有距离为 K 的结点.cpp" />
     <ClCompile Include="LC_918.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="SolutionBaseClass.cpp" />
